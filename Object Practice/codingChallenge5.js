@@ -18,5 +18,3 @@ console.log(events)
 //Question 2
 gameEvents.delete(79)
 console.log(gameEvents)
-
-//Question 3 
